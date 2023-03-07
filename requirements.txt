@@ -1,4 +1,2 @@
 pandas
-hashlib
 argparse
-struct
