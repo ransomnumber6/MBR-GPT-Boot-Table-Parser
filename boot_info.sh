@@ -1,0 +1,1 @@
+echo $(python3 boot_info.py arg1 arg2 arg3 agr4)
