@@ -103,5 +103,4 @@ class Parser:
 if __name__ == '__main__':
     parser = Parser()
     parser.build_args()
-
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
