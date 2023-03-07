@@ -1,6 +1,5 @@
 import hashlib
 import argparse
-import pickle
 import struct
 import pandas as pd
 
