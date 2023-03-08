@@ -1,0 +1,23 @@
+(07) HPFS/NTFS/exFAT , 2056320, 20884534
+
+(07) HPFS/NTFS/exFAT , 2265165, 20884523
+
+(07) HPFS/NTFS/exFAT , 2474010, 20884513
+
+(07) HPFS/NTFS/exFAT , 2682855, 20884542
+
+Partition number: 1
+
+Last 16 bytes of boot record: aa 66 72 65 65 6D 61 6E ea 66 72 65 65 6D 61 6a
+
+Partition number: 2
+
+Last 16 bytes of boot record: bb 66 72 65 65 6D 61 6E be 66 72 63 60 6D 64 6b
+
+Partition number: 3
+
+Last 16 bytes of boot record: cc 66 72 65 65 6D 61 6E ec 66 72 62 65 67 67 6c
+
+Partition number: 4
+
+Last 16 bytes of boot record: dd 66 72 65 65 6D 61 6E ed 66 72 65 65 6D 69 62
